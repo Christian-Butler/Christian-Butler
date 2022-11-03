@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Christian-Butler
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Laravel, Boostrap CSS
+- 🌱 I’m currently learning Laravel, Javascript, Swift and Bootstrap
 - 📫 How to reach me email N002119889@iadt.ie
 
 <!---
